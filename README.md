@@ -3,7 +3,8 @@
 <h3 align="center">Software Developer</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=MarkusDavis alt=MarkusDavis/> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MarkusDavisDev" target="blank">
+    <img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
 
 - 🔭 I’m currently working on [india-vaccine-frontend](https://github.com/IndiaVaccineIN/india-vaccine-frontend)
