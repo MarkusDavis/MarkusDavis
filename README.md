@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Markus Davis 👋</h1>
 
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software & Front End Developer</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=MarkusDavis alt=MarkusDavis/> </p>
 
 <p align="left"> <a href="https://twitter.com/MarkusDavisDev" target="blank">
