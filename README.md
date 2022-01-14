@@ -6,16 +6,10 @@
 <p align="left"> <a href="https://twitter.com/MarkusDavisDev" target="blank">
     <img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
+- I’m currently looking for Frontend Developer Opportunities
 
-- 🔭 I’m currently working on [india-vaccine-frontend](https://github.com/IndiaVaccineIN/india-vaccine-frontend)
 
-- 👯 I’m looking to collaborate on [MDX](https://github.com/mdx-js/mdx)
-
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-
-- 💬 Ask me about **react, vue and gsap**
-
-- 📫 Reach me at **rahuldkjain@gmail.com**
+- 📫 Send me an email at **business@markusdavis.com**
 
 - 👨‍💻 All of my projects are available at [rahuldkjain](https://rahuldkjain.github.io)
 
