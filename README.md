@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hello, I'm Markus Davis 👋</h1>
 
-<h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<h3 align="center">Software Developer</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=MarkusDavis alt=MarkusDavis/> </p>
 
 <p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
 
