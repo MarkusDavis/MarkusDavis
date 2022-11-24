@@ -1,6 +1,5 @@
 # Hey, how's it coding? 👩‍💻😁🥖
 
-
 My name is Markus Davis. One of the most awesome developers in existence.🌎🥐 I'm also a recent graduate from [DeVry University](https://devry.edu/). I'm a coding fanatic & gaming streamer/youtuber. I'm open to collaborating on exciting projects and contributing with my ideas. 🧠⚡
 
 # Connect with me here:
@@ -54,19 +53,7 @@ My name is Markus Davis. One of the most awesome developers in existence.🌎�
 <a name="learning-next"></a>
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
-## ⚡ GitHub Stats
-<img width='200' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarkusDavis&theme=vue" />
 
-## 📖  What I am currently learning / improving on
-
-[<img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />][learning_now_anchor]
-&nbsp;
-[<img src="https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093" alt="styled-components logo" title="styled-components" height="25" />][learning_now_anchor]
-
-## 👾  What I am interested in learning at some point
-[learning_next_anchor]
-
-## 🔍  Where to find me
 
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 &nbsp;
