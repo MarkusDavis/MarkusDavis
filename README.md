@@ -6,7 +6,7 @@ My name is Markus Davis. One of the most awesome developers in existence.ðŸŒŽðŸ¥
 
 [![Linkedin Badge](https://img.shields.io/badge/-MarkusDavis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/markus-davis/)](https://www.linkedin.com/in/markus-davis/)
 [![Youtube Badge](https://img.shields.io/badge/-breezogaming-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/breezogaming)](https://www.youtube.com/c/breezogaming) 
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mavisdarkus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=38&duration=2800&pause=1000&color=F5F5F5&center=true&width=1000&height=200&lines=Software+Developer+;YouTuber;Cybersecurity+Specialist;Student)](https://git.io/typing-svg)
 
